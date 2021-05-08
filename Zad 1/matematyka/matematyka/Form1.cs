@@ -49,7 +49,7 @@ namespace matematyka
                 float x = float.Parse(textX.Text);
                 float y = float.Parse(textY.Text);
                 float z = float.Parse(textZ.Text);
-                textWynik.Text = (x - y - z).ToString();
+                textWynik.Text = (x * y * z).ToString();
             }
             catch (Exception)
             {
