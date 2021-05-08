@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Zad 1\matematyka\matematyka\bin\Debug\netcoreapp3.1\matematyka.exe
+C:\Users\Admin\Desktop\Zad 1\matematyka\matematyka\bin\Debug\netcoreapp3.1\matematyka.deps.json
+C:\Users\Admin\Desktop\Zad 1\matematyka\matematyka\bin\Debug\netcoreapp3.1\matematyka.runtimeconfig.json
+C:\Users\Admin\Desktop\Zad 1\matematyka\matematyka\bin\Debug\netcoreapp3.1\matematyka.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Zad 1\matematyka\matematyka\bin\Debug\netcoreapp3.1\matematyka.dll
+C:\Users\Admin\Desktop\Zad 1\matematyka\matematyka\bin\Debug\netcoreapp3.1\matematyka.pdb
+C:\Users\Admin\Desktop\Zad 1\matematyka\matematyka\obj\Debug\netcoreapp3.1\matematyka.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Zad 1\matematyka\matematyka\obj\Debug\netcoreapp3.1\matematyka.Form1.resources
+C:\Users\Admin\Desktop\Zad 1\matematyka\matematyka\obj\Debug\netcoreapp3.1\matematyka.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Zad 1\matematyka\matematyka\obj\Debug\netcoreapp3.1\matematyka.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Zad 1\matematyka\matematyka\obj\Debug\netcoreapp3.1\matematyka.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Zad 1\matematyka\matematyka\obj\Debug\netcoreapp3.1\matematyka.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Zad 1\matematyka\matematyka\obj\Debug\netcoreapp3.1\matematyka.dll
+C:\Users\Admin\Desktop\Zad 1\matematyka\matematyka\obj\Debug\netcoreapp3.1\matematyka.pdb
+C:\Users\Admin\Desktop\Zad 1\matematyka\matematyka\obj\Debug\netcoreapp3.1\matematyka.genruntimeconfig.cache
